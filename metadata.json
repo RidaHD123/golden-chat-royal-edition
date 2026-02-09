@@ -1,0 +1,8 @@
+{
+  "name": "Golden Chat - Royal Edition",
+  "description": "A luxury messaging super-app featuring end-to-end encryption, multi-language support (RTL), and AI-powered interactions with world leaders, all wrapped in a premium gold and black aesthetic.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
